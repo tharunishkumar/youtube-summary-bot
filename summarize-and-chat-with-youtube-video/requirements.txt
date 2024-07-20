@@ -1,0 +1,7 @@
+langchain
+youtube-transcript-api
+openai
+tiktoken
+python-dotenv
+gradio
+
